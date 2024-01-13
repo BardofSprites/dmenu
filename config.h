@@ -9,7 +9,8 @@ static unsigned int border_width = 2;
 
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"Iosevka Comfy:size=16"
+	"Iosevka Comfy:size=16",
+	"NotoColorEmoji:size=10"
 };
 static const char *prompt      = 	NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
