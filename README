@@ -1,3 +1,5 @@
+This is my minimal configuration, I only changed fonts and added a patch for Xresources color theming.
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
